@@ -3,7 +3,7 @@
 <!--
 **mckolu/mckolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Hi, I'm Mehmet!
+Hi, I'm Mehmet!
 
 <img src="https://raw.githubusercontent.com/X.png">
 I am a Research Scientist, who is passionate about creating intelligent AI applications for human learning.
