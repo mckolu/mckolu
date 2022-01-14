@@ -4,7 +4,7 @@
 
 Hi, I'm Mehmet!
 
-<img src="https://raw.githubusercontent.com/X.png">
+<img src="https://github.com/mckolu/mckolu/blob/main/profile_pic.jpg">
 I am a Research Scientist, who is passionate about creating intelligent AI applications for human learning.
 I have a Ph.D. in Computer Science and I love working with multi-disciplinary teams to create innovative technologies for learners from all ages and backgrounds. Some technologies I enjoy working with include NodeJS, ReactJS, and Python. XYZ <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  
 
