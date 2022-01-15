@@ -1,6 +1,6 @@
 ## Hello World! 🌎 
 
-<a href="https://github.com/mckolu/mckolu/blob/main/1.png"><img align="right" width="350" padding-left= 100 height="auto" src="https://github.com/mckolu/mckolu/blob/main/1.png"></a>
+<a href="https://github.com/mckolu/mckolu/blob/main/1.png"><img align="right" width="350" height="auto" src="https://github.com/mckolu/mckolu/blob/main/1.png"></a>
 
 I am a Research Scientist, who is passionate about creating **intelligent AI applications** for human learning. 👨🏻‍💻
 
