@@ -16,13 +16,8 @@ Some technologies I enjoy working with include **NodeJS, ReactJS, and of course 
 
 
 
+
+
+
 <b>
   
-  
-
-
-
-
-
-
-
