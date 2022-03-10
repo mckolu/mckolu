@@ -14,7 +14,5 @@ Some technologies I enjoy working with include **NodeJS, ReactJS, and of course 
 - My second home: <a href="https://mckolu.github.io/">Website</a>  🏠 
 - My Publications: <a href="https://scholar.google.com/citations?user=Lfj38jUAAAAJ&hl=en">Google Scholar</a> ✍️
 
-
-
 <b>
   
