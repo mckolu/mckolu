@@ -1,9 +1,8 @@
 ## Hello World! 🌎 
 
-<a href="https://github.com/mckolu/mckolu/blob/main/1.png"><img align="right" width="345" height="auto" src="https://github.com/mckolu/mckolu/blob/main/1.png"></a>
+<a href="https://github.com/mckolu/mckolu/blob/main/1.png"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/1.png"></a>
 
-
-<!-- <a href="https://github.com/mckolu/mckolu/blob/main/python.jpg"><img align="right" width="345" height="auto" src="https://github.com/mckolu/mckolu/blob/main/python.jpg"></a> -->
+<!-- <a href="https://github.com/mckolu/mckolu/blob/main/python.jpg"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/python.jpg"></a> -->
 
 I am a Research Scientist, who is passionate about creating **intelligent AI applications** for human learning. 👨🏻‍💻
 
@@ -16,6 +15,7 @@ Some technologies I enjoy working with **NodeJS, ReactJS, and of course Python!*
 - My home: <a href="https://www.linkedin.com/in/mehmet-celepkolu/">LinkedIn</a> 🌐
 - My second home: <a href="https://mckolu.github.io/">Website</a>  🏠 
 - My Publications: <a href="https://scholar.google.com/citations?user=Lfj38jUAAAAJ&hl=en">Google Scholar</a> ✍️
+
 <b>
  
  
