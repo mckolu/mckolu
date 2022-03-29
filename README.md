@@ -8,7 +8,7 @@ I am a Research Scientist, who is passionate about creating **intelligent AI app
 
 I have a Ph.D. in Computer Science and I love working with multi-disciplinary teams to create innovative technologies for learners from all ages and backgrounds. 
 
-Some technologies I enjoy working with **NodeJS, ReactJS, and of course Python!** :)  
+Some languages/technologies I enjoy working with **NodeJS, ReactJS, and of course Python!** :)  
 
 ## Let's Connect! 🤝
 
