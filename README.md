@@ -1,6 +1,6 @@
 ## Hello World! 🌎 
 
-<a href="https://github.com/mckolu/mckolu/blob/main/1.png"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/3.gif"></a>
+<a href="https://github.com/mckolu/mckolu/blob/main/1.png"><img align="right" width="312" height="auto" src="https://github.com/mckolu/mckolu/blob/main/4.gif"></a>
 
 <!-- <a href="https://github.com/mckolu/mckolu/blob/main/python.jpg"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/python.jpg"></a> -->
 
